@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Beskar-Banquet/static/css/main.b9f1e782.css",
+    "main.js": "/Beskar-Banquet/static/js/main.1491366f.js",
+    "static/media/finial.png": "/Beskar-Banquet/static/media/finial.2611534f539b66779304.png",
+    "static/media/wedding.jpeg": "/Beskar-Banquet/static/media/wedding.b367ddac2a797c322f23.jpeg",
+    "index.html": "/Beskar-Banquet/index.html",
+    "main.b9f1e782.css.map": "/Beskar-Banquet/static/css/main.b9f1e782.css.map",
+    "main.1491366f.js.map": "/Beskar-Banquet/static/js/main.1491366f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f1e782.css",
+    "static/js/main.1491366f.js"
+  ]
+}
